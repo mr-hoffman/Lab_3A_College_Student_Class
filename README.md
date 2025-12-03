@@ -1,6 +1,6 @@
 # Lab_3A_College_Student_Class
 
-For this problem, you will be creating a class and using the Main class to test your output.  Leave the Main class alone for now and create another class called CollegeStudent.  This class should go below the closing curly brace for the Main class.  Define this class as described below.  All variables should be declared as private and all methods as public.  
+For this problem, you will be creating a class and using the Main class to test your output.  Leave the Main class alone for now and create your `CollegeStudent` class in the CollegeStudent file. Define this class as described below.  All variables should be declared as private and all methods as public.  
 
 **Class Name:**	CollegeStudent (do not put public on the class line)
 
